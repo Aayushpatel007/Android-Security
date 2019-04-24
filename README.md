@@ -1,4 +1,10 @@
-# Android-Security
+
+<table>
+<tr>
+<th><img src="https://github.com/Aayushpatel007/Android-Security/blob/master/android.png" width="150" height="100"></th>
+    <th><h3> Enhancing Security of Android based Smart Devices: Preventive Approach </h3></th>
+</tr>
+<table>
 
 ## Abstract
 In the current era of smart devices, mobile phones are rapidly emerged and increasingly being used as primary computing, communication device with sensing capabilities, running more performance intensive task. Secure and healthy working environment of this smarty is required to be maintained. Major work is done in the area of security, misuse detection, privacy of data and threat detection and even efficient solution are also provided by the researchers. Though sufficient peripheral protection mechanisms described, authentication and access control are not alone sufficient to provide integral protection against intrusions. This raises need for smart analysis techniques, particularly in application code, to materialize. There are many security detective and preventive solutions available in market, but still this research field is immature. Majority of solutions provided in area of Smartphone handle specific issue for particular device and environment. 
@@ -16,7 +22,7 @@ We proposed a monitoring and detection framework to maintain and provide safe wo
 
 Our frame work will continuously monitor for the app download event and as it will found any app download, it will analyze the components of installable application. From this it will identify all the resources required by the app at run time in future after it gets installed with risk factor associated with it. The objective behind resource requirement assessment is to identify needless resource acquisition done dynamically at run time by app which can be used for malicious purposes. Our aspiration is to prevent such misuse and that way tend to provide security and privacy. Our intention behind this work can be clearly understood by taking one example. If one user wants to install some game on his device, it will be downloaded from the app store. If contact / camera or any such resources acquisition request is there in the app code, which is in reality not essential but for malicious purpose it is defined may create devastation.
 
-<img src="https://github.com/Aayushpatel007/Android-Security/blob/master/img1.png" width="560" height="480" style="vertical-align:center;">
+<img src="https://github.com/Aayushpatel007/Android-Security/blob/master/img1.png" width="450" height="450" style="vertical-align:center;">
 
 
 ## Implementation Details and Results
