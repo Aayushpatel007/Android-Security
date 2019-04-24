@@ -22,7 +22,16 @@ We proposed a monitoring and detection framework to maintain and provide safe wo
 
 Our frame work will continuously monitor for the app download event and as it will found any app download, it will analyze the components of installable application. From this it will identify all the resources required by the app at run time in future after it gets installed with risk factor associated with it. The objective behind resource requirement assessment is to identify needless resource acquisition done dynamically at run time by app which can be used for malicious purposes. Our aspiration is to prevent such misuse and that way tend to provide security and privacy. Our intention behind this work can be clearly understood by taking one example. If one user wants to install some game on his device, it will be downloaded from the app store. If contact / camera or any such resources acquisition request is there in the app code, which is in reality not essential but for malicious purpose it is defined may create devastation.
 
-<img src="https://github.com/Aayushpatel007/Android-Security/blob/master/img1.png" width="450" height="450" style="vertical-align:center;">
+<img src="https://github.com/Aayushpatel007/Android-Security/blob/master/img1.png" width="350" height="350" style="vertical-align:center;">
+
+#### Supporting Android Versions
+
+* **Android 7.0 to 7.1: Android Nougat**
+* **Android 6.0 to 6.0.1: Android Marshmallow**
+* **Android 5.0 to 5.1.1: Android Lollipop**
+* **Android 4.4 to 4.4.4: Android KitKat**
+
+Note: This functionality doesnot work for Android Oreo and later versions of Android due to deprecation of services like Broadcast Receivers, Background Services, etc.
 
 
 ## Implementation Details and Results
