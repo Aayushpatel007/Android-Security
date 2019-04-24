@@ -61,7 +61,7 @@ From the figures 5 and 6 for the app Sales Master, it is clear that the results 
 
 <table>
 <tr>
-<th><img src="https://github.com/Aayushpatel007/Android-Security/blob/master/WhatsApp%20Image%202019-04-24%20at%209.00.24%20AM.jpeg" width="350" height="340"></th>
+<th><img src="https://github.com/Aayushpatel007/Android-Security/blob/master/WhatsApp%20Image%202019-04-24%20at%209.00.24%20AM.jpeg" width="320" height="490"></th>
 </tr>
 <table>
 
