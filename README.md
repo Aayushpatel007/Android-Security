@@ -50,6 +50,16 @@ From the figures 5 and 6 for the app Sales Master, it is clear that the results 
 <th><img src="https://github.com/Aayushpatel007/Android-Security/blob/master/img4.png" width="240" height="340"></th>
 </tr>
 <table>
+    
+### Analytical Dashboard which categorize Applications permissions into their protection level.
+
+<table>
+<tr>
+<th><img src="https://github.com/Aayushpatel007/Android-Security/blob/master/WhatsApp%20Image%202019-04-24%20at%209.00.24%20AM.jpeg" width="290" height="340"></th>
+</tr>
+<table>
+
+
 
 ## Conclusion
 
